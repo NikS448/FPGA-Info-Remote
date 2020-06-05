@@ -8,6 +8,7 @@ import socket
 init()
 exit_program = False
 change_host = 1
+# git_test
 
 while 1:
     # HOST = "15.198.21.31"
